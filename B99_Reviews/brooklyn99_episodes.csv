@@ -1,0 +1,154 @@
+season,episode_num_in_season,episode_num_overall,title,directed_by,written_by,original_air_date,prod_code,us_viewers
+1,1,1,Pilot,Phil Lord & Christopher Miller,Dan Goor & Michael Schur,2013-09-17,101.0,6170000.0
+1,2,2,The Tagger,Craig Zisk,Norm Hiscock,2013-09-24,102.0,4030000.0000000005
+1,3,3,The Slump,Julie Anne Robinson,Prentice Penny,2013-10-01,105.0,3430000.0
+1,4,4,M.E. Time,Troy Miller,Gil Ozeri,2013-10-08,106.0,3340000.0
+1,5,5,The Vulture,Jason Ensler,Laura McCreary,2013-10-15,104.0,3430000.0
+1,6,6,Halloween,Dean Holland,Lesley Arfin,2013-10-22,107.0,3770000.0
+1,7,7,48 Hours,Peter Lauer,Luke Del Tredici,2013-11-05,103.0,3840000.0
+1,8,8,Old School,Beth McCarthy-Miller,Gabe Liedman,2013-11-12,109.0,3260000.0
+1,9,9,Sal's Pizza,Craig Zisk,Lakshmi Sundaram,2013-11-19,108.0,3360000.0
+1,10,10,Thanksgiving,Jorma Taccone,Luke Del Tredici,2013-11-26,110.0,3690000.0
+1,11,11,Christmas,Jake Szymanski,Dan Goor,2013-12-03,111.0,3660000.0
+1,12,12,Pontiac Bandit,Craig Zisk,Norm Hiscock & Lakshmi Sundaram,2014-01-07,113.0,3440000.0
+1,13,13,The Bet,Julian Farino,Laura McCreary,2014-01-14,112.0,3530000.0
+1,14,14,The Ebony Falcon,Michael Blieden,Prentice Penny,2014-01-21,114.0,4550000.0
+1,15,15,Operation: Broken Feather,Julie Anne Robinson,Dan Goor & Michael Schur,2014-02-02,116.0,15070000.0
+1,16,16,The Party,Michael Engler,Gil Ozeri & Gabe Liedman,2014-02-04,115.0,3220000.0
+1,17,17,Full Boyle,Craig Zisk,Norm Hiscock,2014-02-11,117.0,2880000.0
+1,18,18,The Apartment,Tucker Gates,David Quandt,2014-02-25,118.0,2660000.0
+1,19,19,Tactical Village,Fred Goss,Luke Del Tredici,2014-03-04,119.0,2610000.0
+1,20,20,Fancy Brudgom,"Victor Nelli, Jr.",Laura McCreary,2014-03-11,120.0,2490000.0
+1,21,21,Unsolvable,Ken Whittingham,Prentice Penny,2014-03-18,121.0,2500000.0
+1,22,22,Charges and Specs,Akiva Schaffer,Gabe Liedman & Gil Ozeri,2014-03-25,122.0,2590000.0
+2,1,23,Undercover,Dean Holland,Luke Del Tredici,2014-09-28,201.0,5460000.0
+2,2,24,Chocolate Milk,Fred Goss,Gabe Liedman,2014-10-05,202.0,3310000.0
+2,3,25,The Jimmy Jab Games,Rebecca Asher,Lakshmi Sundaram,2014-10-12,203.0,4510000.0
+2,4,26,Halloween II,Eric Appel,Prentice Penny,2014-10-19,204.0,5220000.0
+2,5,27,The Mole,"Victor Nelli, Jr.",Laura McCreary,2014-11-02,205.0,3410000.0
+2,6,28,Jake and Sophia,Michael McDonald,Tricia McAlpin & David Phillips,2014-11-09,206.0,3990000.0
+2,7,29,Lockdown,Linda Mendoza,Luke Del Tredici,2014-11-16,208.0,4530000.0
+2,8,30,USPIS,Ken Whittingham,Brian Reich,2014-11-23,207.0,3040000.0
+2,9,31,The Road Trip,Beth McCarthy-Miller,Brigitte Munoz-Liebowitz,2014-11-30,209.0,3110000.0
+2,10,32,The Pontiac Bandit Returns,Max Winkler,Matt O'Brien,2014-12-07,210.0,4320000.0
+2,11,33,Stakeout,Tristram Shapeero,Laura McCreary & Tricia McAlpin,2014-12-14,211.0,3520000.0
+2,12,34,Beach House,Tim Kirkby,Lakshmi Sundaram & David Phillips,2015-01-04,212.0,6120000.0
+2,13,35,Payback,"Victor Nelli, Jr.",Norm Hiscock & Brigitte Munoz-Liebowitz,2015-01-11,213.0,3290000.0
+2,14,36,Defense Rests,Jamie Babbit,Prentice Penny & Matt O'Brien,2015-01-25,214.0,2790000.0
+2,15,37,Windbreaker City,Craig Zisk,Gabe Liedman,2015-02-08,215.0,2590000.0
+2,16,38,The Wednesday Incident,Claire Scanlon,Laura McCreary,2015-02-15,216.0,2080000.0
+2,17,39,Boyle-Linetti Wedding,Dean Holland,Matt O'Brien,2015-03-01,217.0,3610000.0
+2,18,40,Captain Peralta,Eric Appel,Dan Goor,2015-03-08,218.0,3110000.0
+2,19,41,Sabotage,Jay Karas,Brian Reich,2015-03-15,219.0,2960000.0
+2,20,42,AC/DC,Linda Mendoza,Kylie Condon,2015-04-26,222.0,2780000.0
+2,21,43,Det. Dave Majors,Michael McDonald,Gabe Liedman & Lakshmi Sundaram,2015-05-03,220.0,2720000.0
+2,22,44,The Chopper,Phil Traill,Tricia McAlpin & David Phillips,2015-05-10,221.0,2560000.0
+2,23,45,Johnny and Dora,Dean Holland,Luke Del Tredici,2015-05-17,223.0,2350000.0
+3,1,46,New Captain,Michael Schur,Matt Murray,2015-09-27,301.0,3140000.0
+3,2,47,The Funeral,Claire Scanlon,Luke Del Tredici,2015-10-04,302.0,4099999.9999999995
+3,3,48,Boyle's Hunch,Trent O'Donnell,Tricia McAlpin,2015-10-11,304.0,2750000.0
+3,4,49,The Oolong Slayer,Michael McDonald,Gabe Liedman,2015-10-18,303.0,2570000.0
+3,5,50,Halloween III,Michael McDonald,David Phillips,2015-10-25,305.0,4380000.0
+3,6,51,Into the Woods,Linda Mendoza,Andrew Guest,2015-11-08,306.0,2650000.0
+3,7,52,The Mattress,Dean Holland,Laura McCreary,2015-11-15,307.0,2690000.0
+3,8,53,Ava,Tristram Shapeero,Matt O'Brien,2015-11-22,308.0,3880000.0
+3,9,54,The Swedes,Eric Appel,Matt Murray,2015-12-06,309.0,3950000.0
+3,10,55,Yippie Kayak,Rebecca Asher,Lakshmi Sundaram,2015-12-13,310.0,3820000.0
+3,11,56,Hostage Situation,Max Winkler,Phil Augusta Jackson,2016-01-05,312.0,2730000.0
+3,12,57,9 Days,Dean Holland,Justin Noble,2016-01-19,311.0,2370000.0
+3,13,58,The Cruise,Michael Spiller,Tricia McAlpin,2016-01-26,313.0,2380000.0
+3,14,59,Karen Peralta,Bruce McCulloch,Alison Agosti & Gabe Liedman,2016-02-02,314.0,2240000.0
+3,15,60,The 9-8,Nisha Ganatra,David Phillips,2016-02-09,315.0,2280000.0
+3,16,61,House Mouses,Claire Scanlon,Andrew Guest,2016-02-16,316.0,2180000.0
+3,17,62,Adrian Pimento,Maggie Carey,Luke Del Tredici,2016-02-23,317.0,2130000.0
+3,18,63,Cheddar,Alex Reid,Jessica Polonsky,2016-03-01,318.0,1850000.0
+3,19,64,Terry Kitties,Michael McDonald,Phil Augusta Jackson & Tricia McAlpin,2016-03-15,319.0,1950000.0
+3,20,65,Paranoia,Payman Benz,Gabe Liedman,2016-03-29,320.0,2020000.0
+3,21,66,Maximum Security,"Victor Nelli, Jr.",Laura McCreary,2016-04-05,321.0,2710000.0
+3,22,67,Bureau,Ryan Case,David Phillips & Alison Agosti,2016-04-12,322.0,2069999.9999999998
+3,23,68,Greg and Larry,Dan Goor,Andrew Guest & Phil Augusta Jackson,2016-04-19,323.0,2020000.0
+4,1,69,"Coral Palms, Part 1",Michael McDonald,Dan Goor,2016-09-20,401.0,2390000.0
+4,2,70,"Coral Palms, Part 2",Trent O'Donnell,Tricia McAlpin,2016-09-27,402.0,2340000.0
+4,3,71,"Coral Palms, Part 3",Payman Benz,Justin Noble,2016-10-04,403.0,2400000.0
+4,4,72,The Night Shift,Tristram Shapeero,Matt Murray,2016-10-11,404.0,2130000.0
+4,5,73,Halloween IV,Claire Scanlon,Phil Augusta Jackson,2016-10-18,405.0,2049999.9999999998
+4,6,74,Monster in the Closet,Nisha Ganatra,Andrew Guest,2016-11-15,407.0,2180000.0
+4,7,75,Mr. Santiago,Alex Reid,Neil Campbell,2016-11-22,408.0,2190000.0
+4,8,76,Skyfire Cycle,Michael McDonald,David Phillips,2016-11-29,406.0,2340000.0
+4,9,77,The Overmining,Dean Holland,Luke Del Tredici,2016-12-06,409.0,2310000.0
+4,10,78,Captain Latvia,Jaffar Mahmood,Matt Lawton,2016-12-13,410.0,2150000.0
+4,11,79,"The Fugitive, Part 1",Rebecca Asher,Carol Kolb,2017-01-01,411.0,3490000.0
+4,12,80,"The Fugitive, Part 2",Ryan Case,Justin Noble & Jessica Polonsky,2017-01-01,412.0,3490000.0
+4,13,81,The Audit,Beth McCarthy Miller,Carly Hallam Tosh,2017-04-11,413.0,1910000.0
+4,14,82,Serve & Protect,Michael Schur,Andrew Guest & Alexis Wilkinson,2017-04-18,414.0,1910000.0
+4,15,83,The Last Ride,Linda Mendoza,David Phillips,2017-04-25,415.0,1880000.0
+4,16,84,Moo Moo,Maggie Carey,Phil Augusta Jackson,2017-05-02,418.0,1720000.0
+4,17,85,Cop-Con,Giovani Lampassi,Andy Gosche,2017-05-09,416.0,1610000.0
+4,18,86,Chasing Amy,Luke Del Tredici,Matt Lawton,2017-05-09,417.0,1610000.0
+4,19,87,Your Honor,Michael McDonald,David Phillips & Carly Hallam Tosh,2017-05-16,419.0,1650000.0
+4,20,88,The Slaughterhouse,Victor Nelli Jr.,Neil Campbell,2017-05-16,420.0,1380000.0
+4,21,89,The Bank Job,Matthew Nodella,Carol Kolb,2017-05-23,421.0,1780000.0
+4,22,90,Crime & Punishment,Dan Goor,Justin Noble & Jessica Polonsky,2017-05-23,422.0,1500000.0
+5,1,91,The Big House Pt. 1,Tristram Shapeero,Luke Del Tredici,2017-09-26,501.0,2000000.0
+5,2,92,The Big House Pt. 2,Michael McDonald,Justin Noble,2017-10-03,502.0,1740000.0
+5,3,93,Kicks,Eric Appel,Andrew Guest,2017-10-10,503.0,1680000.0
+5,4,94,HalloVeen,Jamie Babbit,Dan Goor,2017-10-17,504.0,1690000.0
+5,5,95,Bad Beat,Kat Coiro,Carol Kolb,2017-11-07,505.0,1500000.0
+5,6,96,The Venue,Cortney Carrillo,Matt Lawton,2017-11-14,506.0,1650000.0
+5,7,97,Two Turkeys,Alex Reid,David Phillips,2017-11-21,507.0,1660000.0
+5,8,98,Return to Skyfire,Linda Mendoza,Neil Campbell,2017-11-28,508.0,1730000.0
+5,9,99,99,Payman Benz,Andy Bobrow,2017-12-05,509.0,1940000.0
+5,10,100,Game Night,Tristram Shapeero,Justin Noble & Carly Hallam Tosh,2017-12-12,510.0,1810000.0
+5,11,101,The Favor,Victor Nelli Jr.,Aeysha Carr,2017-12-12,511.0,1810000.0
+5,12,102,Safe House,Nisha Ganatra,Andy Gosche,2018-03-18,512.0,1920000.0
+5,13,103,The Negotiation,Linda Mendoza,Phil Augusta Jackson,2018-03-25,513.0,1830000.0
+5,14,104,The Box,Claire Scanlon,Luke Del Tredici,2018-04-01,516.0,1780000.0
+5,15,105,The Puzzle Master,Akiva Schaffer,Lang Fisher,2018-04-08,514.0,1740000.0
+5,16,106,NutriBoom,Trent O'Donnell,David Phillips,2018-04-15,515.0,1790000.0
+5,17,107,DFW,Jaffar Mahmood,Jeff Topolski,2018-04-15,518.0,1480000.0
+5,18,108,Gray Star Mutual,Giovani Lampassi,Jessica Polonsky,2018-04-22,517.0,1770000.0
+5,19,109,Bachelor/ette Party,Beth McCarthy-Miller,Carly Hallam Tosh,2018-04-29,519.0,1970000.0
+5,20,110,Show Me Going,Maggie Carey,Phil Augusta Jackson,2018-05-06,520.0,1670000.0
+5,21,111,White Whale,Matthew Nodella,Matt Lawton & Carol Kolb,2018-05-13,521.0,1750000.0
+5,22,112,Jake & Amy,Dan Goor,Dan Goor & Luke Del Tredici,2018-05-20,522.0,1790000.0
+6,1,113,Honeymoon,Giovani Lampassi,Neil Campbell,2019-01-10,601.0,3540000.0
+6,2,114,Hitchcock & Scully,Cortney Carrillo,Lang Fisher,2019-01-17,602.0,2830000.0
+6,3,115,The Tattler,Jennifer Arnold,David Phillips,2019-01-24,603.0,2750000.0
+6,4,116,Four Movements,Luke Del Tredici,Phil Augusta Jackson,2019-01-31,604.0,2720000.0
+6,5,117,A Tale of Two Bandits,Cortney Carrillo,Luke Del Tredici,2019-02-07,605.0,3040000.0
+6,6,118,The Crime Scene,Michael McDonald,Justin Noble,2019-02-14,606.0,2560000.0
+6,7,119,The Honeypot,Phil Augusta Jackson,Carol Kolb,2019-02-21,607.0,2350000.0
+6,8,120,"He Said, She Said",Stephanie Beatriz,Lang Fisher,2019-02-28,609.0,2360000.0
+6,9,121,The Golden Child,Claire Scanlon,Neil Campbell,2019-03-07,610.0,1990000.0
+6,10,122,Gintars,Linda Mendoza,Andy Gosche,2019-03-14,611.0,2049999.9999999998
+6,11,123,The Therapist,Rebecca Addelman,Jeff Topolski,2019-03-21,608.0,2130000.0
+6,12,124,Casecation,Beth McCarthy-Miller,Luke Del Tredici,2019-04-11,612.0,1880000.0
+6,13,125,The Bimbo,Joe Lo Truglio,Paul Welsh & Madeline Walter,2019-04-18,613.0,1780000.0
+6,14,126,Ticking Clocks,Payman Benz,Carol Kolb,2019-04-25,615.0,1690000.0
+6,15,127,Return of the King,Melissa Fumero,Phil Augusta Jackson,2019-05-02,614.0,1650000.0
+6,16,128,Cinco de Mayo,Rebecca Asher,David Phillips,2019-05-09,616.0,1830000.0
+6,17,129,Sicko,Matthew Nodella,Justin Noble,2019-05-16,617.0,1630000.0
+6,18,130,Suicide Squad,Dan Goor,Dan Goor & Luke Del Tredici,2019-05-16,618.0,1550000.0
+7,1,131,Manhunter,Cortney Carrillo,David Phillips,2020-02-06,701.0,2660000.0
+7,2,132,Captain Kim,Luke Del Tredici,Carol Kolb,2020-02-06,702.0,1990000.0
+7,3,133,Pimemento,Michael McDonald,Justin Noble,2020-02-13,703.0,1790000.0
+7,4,134,The Jimmy Jab Games II,Neil Campbell,Vanessa Ramos,2020-02-20,704.0,1850000.0
+7,5,135,Debbie,Claire Scanlon,Marcy Jarreau,2020-02-27,705.0,1740000.0
+7,6,136,Trying,Kim Nguyen,Evan Susser & Van Robichaux,2020-03-05,706.0,1820000.0
+7,7,137,Ding Dong,Claire Scanlon,Jess Dweck,2020-03-12,707.0,2120000.0
+7,8,138,The Takeback,Michael McDonald,Dewayne Perkins,2020-03-19,708.0,2320000.0
+7,9,139,Dillman,Kyra Sedgwick,Paul Welsh & Madeline Walter,2020-03-26,709.0,2140000.0
+7,10,140,Admiral Peralta,Linda Mendoza,Neil Campbell,2020-04-02,710.0,2060000.0
+7,11,141,Valloweaster,Matthew Nodella,Luke Del Tredici & Jeff Topolski,2020-04-09,711.0,2040000.0
+7,12,142,Ransom,Rebecca Asher,Nick Perdue & Beau Rawlins,2020-04-16,712.0,2049999.9999999998
+7,13,143,Lights Out,Dan Goor,Dan Goor & Luke Del Tredici,2020-04-23,713.0,2240000.0
+8,1,144,The Good Ones,Cortney Carrillo,David Phillips & Dewayne Perkins,2021-08-12,802.0,1840000.0
+8,2,145,The Lake House,Kevin Bray,Neil Campbell & Marcy Jarreau,2021-08-12,801.0,1340000.0
+8,3,146,Blue Flu,Claire Scanlon,Carol Kolb & April Quioh,2021-08-19,803.0,2020000.0
+8,4,147,Balancing,Daniella Eisman,Evan Susser & Van Robichaux,2021-08-19,804.0,1490000.0
+8,5,148,PB&J,Gail Mancuso,Lamar Woods & Jeff Topolski,2021-08-26,808.0,1900000.0
+8,6,149,The Set Up,Maggie Carey,Jess Dweck & Nick Perdue,2021-08-26,805.0,1450000.0
+8,7,150,Game of Boyles,Thembi Banks,Paul Welsh & Madeline Walter,2021-09-02,806.0,1840000.0
+8,8,151,Renewal,Beth McCarthy Miller,Stephanie A. Ritter & Beau Rawlins,2021-09-02,807.0,1310000.0
+8,9,152,The Last Day Pt 1,Linda Mendoza,Luke Del Tredici & Audrey E. Goodman,2021-09-16,809.0,1880000.0
+8,10,153,The Last Day Pt 2,Claire Scanlon,Dan Goor,2021-09-16,810.0,1880000.0
